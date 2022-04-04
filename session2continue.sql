@@ -13,3 +13,4 @@
 	SELECT FirstName, LastName, City
 	FROM customers
 	WHERE LastName LIKE 'Sch%' OR LastName LIKE 'Go%';
+	
